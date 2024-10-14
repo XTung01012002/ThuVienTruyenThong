@@ -1,0 +1,1 @@
+module.exports = { lower: true ,locale: 'vi', remove: /[!:?."(),]/g }
